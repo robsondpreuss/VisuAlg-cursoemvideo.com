@@ -1,2 +1,5 @@
 # Algoritmos VisualG
- Lista de 100 Exercicios do Curso de Algoritmo do cursoemvideo do Gustavo Guanabara.
+
+Em DEV...
+
+Lista dos 100 exercicios propostos pelo Gustavo Guanabara no Curso de Algoritmo do cursoemvideo.
